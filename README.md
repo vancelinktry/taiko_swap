@@ -12,7 +12,6 @@ This guide will help you interact with Swap V3, which is a fork of Uniswap V3 th
 Visit the Swap V3 dapp - https://swap-v3.jolnir.taiko.xyz/.
 
 ## 2. Follow the video guide for swapping tokens
-
 https://youtu.be/NqbSwVXF43M
 
 ## 3. Follow the video guide for adding liquidity
